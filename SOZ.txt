@@ -1,0 +1,21 @@
+ID	Date	Initials	SOZ	Hemisphere	temporo mesial	hippocampus	contralateral	bilateral	unilateral implantation	Checked	Annotation
+ER1	23.05.2019	RG	LFA1-4 ? LTb1-2	L						1	
+ER2	30.07.2019	SC	LTb1-2 ? LTa1-2 ? LPa6-8	L						1	
+ER3	22.10.2019	GI	RFf1-4 + RFh	R						1	
+ER4	29.01.2020	MJ	RTa1-2 ? RTb6-9 ? RTe1-4	R						1	
+ER5	20.10.2020	GM	RTa2 ? RTc2 ? RTd ? RPc	R						1	
+ER6	11.11.2020	GT	RTb1 + RTc1 ? RTe2/8 ? RFc12 ? RFb11 ? RTd ? RPa	R						1	
+ER7	16.03.2021	HK	LTg5 ? LTe6 ? LTf6	L						1	
+ER8	08.06.2021	ZM	(RTb1 +) RTc1 + RTd1 ? RTa2-3 ? RTb7 ? RTd5-7	R						1	
+ER9	20.07.2021	AG	RPa3-5 ? RPc2-3 ? RTd3-5	R						1	
+ER10	21.09.2021	EE	LTb1 ? TLg2 ? LTa	L						1	
+ER11	05.10.2021	DT	RTd3-4 ? RTf3 ? RTa1-2	R						1	
+ER12	09.11.2021	MY	LTb2-3 ? LTh9 ? LTc6	L						1	
+ER13	11.01.2022	HAT	5-6 sec after clinical onset: LFa6-12, LFc4-7, LFe1/5, LFf4-5/8-9, LFg5-6	L						1	propagated seizure pattern (NOT onset)
+ER14	26.01.2022	KL	RTb1-3 + RTc1-2 ? RTa1-4	R						1	
+ER15	08.02.2022	GN	RTb1 ? RTa1 ? RTc4-5	R						1	
+ER16	09.03.2022	HM								1	no seizures recorded
+ER17	23.03.2022	DK	LTb1-2 ? LTc 1-2 ? LTe1-2 ? LTb1-3 ? LTa2	L	LTc1, LTe1	0	0	0	1	1	LTb1-2 in amygdala
+ER18	05.07.2022	ST	LTb1-2 ? LTb1-3 + LTd1-3	L	LTb1, LTd1	1	0	0	1	1	
+ER19	21.06.2022	SI	LTf + LTg ? LTe5-8, LTa, LTc ? LTe1-2 + LTc1-2	L	LTc1, LTe1	0	0	0	1	1	
+ER20	06.09.2022	GS	LTA1-2, LTb1-2, LTc1-2	L	LTb1, LTc1	1	0	0	1	1	
