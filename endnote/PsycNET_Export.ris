@@ -2,20 +2,22 @@ Provider: American Psychological Association
 Database: PsycINFO
 Content: application/x-research-info-systems
 
-TY  - CHAP
-ID  - 1973-08477-007
-T1  - Episodic and semantic memory.
-T2  - Organization of memory.
-A1  - Tulving, Endel
-SP  - xiii, 423
-EP  - xiii, 423
-Y1  - 1972
-CY  - Oxford,  England
-PB  - Academic Press
-SN  - 
-N2  - In this chapter I discuss the possibility that semantic memory, among other things, is not the kind of memory that psychologists have been studying since the time of Ebbinghaus. I will suggest that there are sufficiently fundamental differences between the two forms of memory to recommend that we consider, at least for the time being, the two categories separately. To facilitate subsequent discussion, I will refer to this other kind of memory, the one that semantic memory is not, as 'episodic' memory. (PsycINFO Database Record (c) 2016 APA, all rights reserved)
-KW  - *Cognitive Processes
-KW  - *Experiences (Events)
-KW  - *Memory
-KW  - Semantics
+TY  - JOUR
+ID  - 2011-14609-001
+T1  - Some factors determining the degree of retroactive inhibition.
+JF  - Psychological Monographs
+A1  - Robinson, Edward Stevens
+VL  - 28
+SP  - i
+EP  - 57
+Y1  - 1920
+CY  - US
+PB  - Psychological Review Company
+SN  - 0096-9753(Print)
+N2  - This study is concerned with the fact that the interpolation of certain forms of activity between learning and recall may positively accelerate the forgetting process. The results of the experiments reported in this paper stand in rather sharp disagreement with much of what has previously been said on the subject of retroactive inhibition. The degree of retroactive inhibition present in a given situation is a function of the similarity between interpolated activity and original learning. Where, on the face of things, interpolation and original learning are comparatively dissimilar there may still be an appreciable degree of retroactive inhibition. While the results of the first three experiments show the greatest inhibition where there is unquestionably the greatest similarity between interpolation and original learning, they also point out the extreme difficulty of predicting the degree of inhibition which an apparent degree of similarity will bring about. The degree of retroactive inhibition is independent of the temporal position of the retroactive interpolation. Practice in memorizing a particular kind of material may alter one's susceptibility to retroactive inhibition. Within the limits studied there is no single, continuous relationship between the number of presentations of a memorized material and its absolute susceptibility to retroactive inhibition. The above results, where they apply at all, seems to favor a transfer theory of retroactive inhibition. Thus it appears that, while many desirable facts are still outstanding, all positive acceleration of the forgetting process due to interpolated mental activity can be explained in terms of transfer. (PsycINFO Database Record (c) 2016 APA, all rights reserved)
+KW  - *Forgetting
+KW  - *Learning
+KW  - Retroactive Inhibition
+M3  - doi:10.1037/h0093155
+DO  - 10.1037/h0093155
 ER  -
