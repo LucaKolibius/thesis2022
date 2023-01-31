@@ -131,7 +131,9 @@
      id="layer2"
      inkscape:label="Layer 2">
     <g
-       id="g1202">
+       id="g1202"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
       <g
          style="fill-opacity:1;color-rendering:auto;color-interpolation:auto;text-rendering:auto;stroke:#ffffff;stroke-linecap:square;stroke-miterlimit:10;shape-rendering:auto;stroke-opacity:1;fill:#ffffff;stroke-dasharray:none;font-weight:normal;stroke-width:1;font-family:'Dialog';font-style:normal;stroke-linejoin:miter;font-size:12px;stroke-dashoffset:0;image-rendering:auto"
          id="g12">
@@ -366,7 +368,9 @@
        style="font-size:37.3333px;line-height:1.25;font-family:arial;-inkscape-font-specification:arial"
        x="59.773586"
        y="38.226418"
-       id="text67"><tspan
+       id="text67"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
          sodipodi:role="line"
          id="tspan65"
          x="59.773586"
@@ -377,7 +381,9 @@
        style="font-size:37.3333px;line-height:1.25;font-family:arial;-inkscape-font-specification:arial"
        x="56.984528"
        y="347.9711"
-       id="text71"><tspan
+       id="text71"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
          sodipodi:role="line"
          id="tspan69"
          x="56.984528"
@@ -388,7 +394,9 @@
        style="font-size:37.3333px;line-height:1.25;font-family:arial;-inkscape-font-specification:arial"
        x="57.859528"
        y="637.39575"
-       id="text103"><tspan
+       id="text103"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
          sodipodi:role="line"
          id="tspan101"
          x="57.859528"
