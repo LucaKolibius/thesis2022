@@ -1,0 +1,17 @@
+%0 Journal Article
+%A Lifanov, Julia
+%A Griffiths, Benjamin J.
+%A Linde-Domingo, Juan
+%A Ferreira, Catarina S.
+%A Wilson, Martin
+%A Mayhew, Stephen D.
+%A Charest, Ian
+%A Wimber, Maria
+%T Reconstructing Spatio-Temporal Trajectories of Visual Object Memories in the Human Brain
+%D 2022
+%R 10.1101/2022.12.15.520591
+%J bioRxiv
+%P 2022.12.15.520591
+%X Our understanding of how information unfolds when we recall events from memory remains limited. In this study, we investigate whether the reconstruction of visual object memories follows a backward trajectory along the ventral visual stream with respect to perception, such that their neural feature representations are gradually reinstated from late areas close to the hippocampus backwards to lower-level sensory areas. We use multivariate analyses of fMRI activation patterns to map the constituent features of the object memories onto the brain during retrieval, and EEG-fMRI fusion to track the temporal evolution of the reactivated patterns. Participants studied new associations between verbs and randomly paired object images in an encoding phase, and subsequently recalled the objects when presented with the corresponding verb cue. Decoding reactivated memory features from fMRI activity revealed that retrieval patterns were dominated by conceptual features, represented in comparatively late visual and parietal areas. Representational-similarity-based fusion then allowed us to map the EEG patterns that emerged at each given time point of a trial onto the spatially resolved fMRI patterns. This fusion suggests that memory reconstruction proceeds backwards along the ventral visual stream from anterior fronto-temporal to posterior occipital and parietal regions, in line with a semantic-to-perceptual gradient. A linear regression on the peak time points of reactivated brain regions statistically confirms that the temporal progression is reversed with respect to encoding. Together, the results shed light onto the spatio-temporal trajectories along which memories are reconstructed during associative retrieval, and which features of an image are reconstructed when in time and where in the brain.Competing Interest StatementThe authors have declared no competing interest.
+%U https://www.biorxiv.org/content/biorxiv/early/2022/12/15/2022.12.15.520591.full.pdf
+
